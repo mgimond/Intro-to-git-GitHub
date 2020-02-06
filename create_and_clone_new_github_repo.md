@@ -7,7 +7,7 @@ In the following steps, you will create a new repo called `repo1`.
 3. Click on the green **New** button.
 4. Name the new repo `repo1`.
 5. Provide a brief description (e.g. `"Testing a first repo"`).
-6. If you want to share the repo with the word, set it to public. If you want to keep it private, select private. In this example, we'll assume that you want to keep it **private**.
+6. If you want to share the repo with the world, set it to public. If you want to keep it private, select private. In this example, we'll assume that you want to keep it **private**.
 7. **Check the box** next to *Initialize this repository with a README*. 
 8. Click on **Create repository**.
 
@@ -17,13 +17,13 @@ In the following steps, you will create a new repo called `repo1`.
 ## Copy (clone) the new Github Repo locally to your computer
 
 1. Bring up a git shell on your local computer. You can also bring up the *Terminal* window in RStudio (lower left-hand pane).
-2.  Navigate to the folder where you will want to copy the new repo to. You can change directory using the `cd` command. For example, if you want to copy the repo to your `ES218` folder that resides under your home directory, type the following if you are working on a **Mac**:
+2.  Navigate to the folder where you will want to copy the new repo to. You can change directory using the `cd` command. For example, if you want to copy the repo to your `ES218` folder that resides under your home directory, type the following if you are working on a **Mac**:  {Erica: check the syntax on your Mac for me]
 
    ```{r}
    cd ~/ES218
    ```
 
-   If you are working on a **Windows** PC, type
+   If you are working on a **Windows** PC, type:
 
    ```{r}
    cd ~/Documents/ES218
