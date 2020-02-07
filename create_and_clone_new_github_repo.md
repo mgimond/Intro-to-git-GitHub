@@ -2,7 +2,7 @@
 
 In the following steps, you will create a new repo called `repo1`. 
 
-1. Navigate to https://github.com and make log in as yourself.
+1. Navigate to https://github.com and log in as yourself.
 2. Click on the **Repositories** tab.
 3. Click on the green **New** button.
 4. Name the new repo `repo1`.
