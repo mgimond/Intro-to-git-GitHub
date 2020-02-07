@@ -14,7 +14,7 @@ git push -u origin master
 
 1. Make sure that you've saved any project R/Rmd script before pushing your project folder.
 2. Open a git bash shell. Alternatively, you can use the *Terminal* pane in RStudio.
-3. **Navigate** to your project folder using the `cd` command. Remember that you can use the short cut `~` character to reference your home directory. In this example, we are assuming the tha project folder is named `HW123`.
+3. **Navigate** to your project folder using the `cd` command. Remember that you can use the short cut `~` character to reference your home directory. In this example, we are assuming the tha project folder is named `HW123`, which is a repository created and cloned to the folder `ES218`.
      ```
      cd ~/Documents/ES218/HW123
      ```
