@@ -1,10 +1,9 @@
-Proceed with the followinhg steps when you are ready to push (upload) your local project folder back to your github account. Note that you do not need to wait until you feel as though you have a final version of your assignment or project before pushing it to your github account. You can push many different versions of you project folder as needed.
+Proceed with the following steps when you are ready to push (upload) your local project folder back to your github account. Note that you do not need to wait until you feel as though you have a final version of your assignment or project before pushing it to your github account. You can push many different versions of you project folder as needed.
 
 ## Quick instructions
 
 If you don't need to review the step-by-step instructions, the basic steps follow. We'll assume that the repo is named `HW123` (this should be the same name as your local project folder). 
 
-We will frequently make use of these commands:
 ```
 git add --all
 git commit -m "type your message here"
