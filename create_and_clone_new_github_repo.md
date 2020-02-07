@@ -24,15 +24,15 @@ In the following steps, you will create a new repo called `repo1`.
    ```
 
    If you are working on a **Windows** PC, type:
+   
    ```{r}
    cd ~/Documents/ES218 
    ```    
    The tilde, `~`, is interpreted as you home directory. Alternatively, you could have typed the full directory path to your folder. For example, on a Windows machine, you could have typed:
-
-
-    ```{r}
-    /c/Users/mgimond/ES218
-    ```
+   
+   ```{r}
+   cd /c/Users/mgimond/ES218
+   ```  
 
 3. Navigate back to your repo page on the Github website.
 4. Click on the *Clone or Download* button. This will reveal the full web path to your repo.
