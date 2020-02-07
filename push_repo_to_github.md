@@ -4,6 +4,7 @@ Proceed with the followinhg steps when you are ready to push (upload) your local
 
 If you don't need to review the step-by-step instructions, the basic steps follow. We'll assume that the repo is named `HW123` (this should be the same name as your local project folder). 
 
+We will frequently make use of these commands:
 ```
 git add --all
 git commit -m "type your message here"
