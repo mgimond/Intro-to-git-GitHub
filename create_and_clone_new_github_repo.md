@@ -24,12 +24,10 @@ In the following steps, you will create a new repo called `repo1`.
    ```
 
    If you are working on a **Windows** PC, type:
-
-   ```{r} 
+   ```{r}
    cd ~/Documents/ES218 
-   ``` 
-    
-    The tilde, `~`, is interpreted as you home directory. Alternatively, you could have typed the full directory path to your folder. For example, on a Windows machine, you could have typed:
+   ```    
+   The tilde, `~`, is interpreted as you home directory. Alternatively, you could have typed the full directory path to your folder. For example, on a Windows machine, you could have typed:
 
 
     ```{r}
