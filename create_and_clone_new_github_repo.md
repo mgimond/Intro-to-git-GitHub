@@ -17,7 +17,7 @@ In the following steps, you will create a new repo called `repo1`.
 ## Copy (clone) the new Github Repo locally to your computer
 
 1. Bring up a git shell on your local computer. You can also bring up the *Terminal* window in RStudio (lower left-hand pane).
-2.  Navigate to the folder where you will want to copy the new repo to. You can change directory using the `cd` command. For example, if you want to copy the repo to your `ES218` folder that resides under your home directory, type the following if you are working on a **Mac**:  {Erica: check the syntax on your Mac for me]
+2.  Navigate to the folder where you will want to copy the new repo to. You can change directory using the `cd` command. For example, if you want to copy the repo to your `ES218` folder that resides under your home directory, type the following if you are working on a **Mac**:
 
    ```{r}
    cd ~/ES218
@@ -29,7 +29,7 @@ In the following steps, you will create a new repo called `repo1`.
    cd ~/Documents/ES218
    ```
 
-     The tilde, `~`, is interpreted as you home directory. ALternatively, you could have typed the full directory path to your folder. For example, on a Windows machine, you could have typed:
+     The tilde, `~`, is interpreted as you home directory. Alternatively, you could have typed the full directory path to your folder. For example, on a Windows machine, you could have typed:
 
     ```{r}
     /c/Users/mgimond/ES218
