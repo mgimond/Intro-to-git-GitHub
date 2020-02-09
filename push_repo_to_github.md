@@ -39,7 +39,7 @@ git push -u origin master
        
   5. **Check** that the files are properly staged by typing `git status`. Any files ready to be pushed to Github should be highligthed in green.
   
-      <img src="img/git_status.PNG" width=350 /> 
+      <img src="img/git_status.PNG" width=450 /> 
   
   
   6. The next step involves **commiting**. Here, you will simply add a *message* to your commit. While this may not be very useful for a homework assignment, it can be very useful in helping revert back to an earlier version of a project by using the comments as placeholders for various versions of project. In such a case, you usually want to use short but descriptive comments to help pinpoint key changes to a project file. For a homework assignment, this is less crictical, but for good practice, you are encouraged to make good use of this step. Here, we'll label this commit `first HW attempt` as follows:
@@ -56,7 +56,7 @@ git push -u origin master
      ```
      If you are prompted for a username/password, this is refering to your Github account (and not your school account).
      
-       <img src="img/git_push.PNG" width=450 /> 
+       <img src="img/git_push.PNG" width=400 /> 
      
   8. Finally, check your Github repo for the updates. You should see the comment next to the updated or newly added files.
   
