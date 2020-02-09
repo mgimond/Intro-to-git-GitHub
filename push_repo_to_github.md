@@ -47,7 +47,7 @@ git push -u origin master
       git commit -m "first HW attempt"
       ```
       
-        <img src="img/git_commit.PNG" width=400 /> 
+        <img src="img/git_commit.PNG" width=450 /> 
       
       
   7. The final step is to **push** your local commited files/folders to your Github repo as follows:
@@ -56,7 +56,7 @@ git push -u origin master
      ```
      If you are prompted for a username/password, this is refering to your Github account (and not your school account).
      
-       <img src="img/git_push.PNG" width=400 /> 
+       <img src="img/git_push.PNG" width=450 /> 
      
   8. Finally, check your Github repo for the updates. You should see the comment next to the updated or newly added files.
   
