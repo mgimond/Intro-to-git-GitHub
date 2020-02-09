@@ -1,6 +1,6 @@
  + [Setting up git](git_setup.md)
 
- + [Creating a new Github repo](create_and_clone_new_github_repo.md)
+ + [Creating a new Github repo](Creating_a_new_Github_repo.md)
  
  + [Cloning a  Github repo](Cloning_a_Github_repo.md)
 
