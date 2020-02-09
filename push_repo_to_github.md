@@ -22,7 +22,7 @@ git push -u origin master
      
    You can check the contents of the folder by typing `ls`. If you want to view hidden files, type `ls -a`. 
    
-   <img src="img/ls_a_folder.PNG" width=350 /> 
+   <img src="img/ls_a_folder.PNG" width=400 /> 
    
    You should see, at the very least, a `.git/` folder. If you do not, then you are not working off of a cloned repo or a git environment was not properly generated.
    
@@ -56,7 +56,7 @@ git push -u origin master
      ```
      If you are prompted for a username/password, this is refering to your Github account (and not your school account).
      
-       <img src="img/git_push.PNG" width=350 /> 
+       <img src="img/git_push.PNG" width=400 /> 
      
   8. Finally, check your Github repo for the updates. You should see the comment next to the updated or newly added files.
   
