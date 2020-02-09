@@ -47,7 +47,7 @@ git push -u origin master
       git commit -m "first HW attempt"
       ```
       
-        <img src="img/git_commit.PNG" width=350 /> 
+        <img src="img/git_commit.PNG" width=400 /> 
       
       
   7. The final step is to **push** your local commited files/folders to your Github repo as follows:
