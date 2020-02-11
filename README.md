@@ -1,3 +1,5 @@
+ ## Git/Github instructions
+ 
  + [Setting up git](git_setup.md)
 
  + [Creating a new Github repo](Creating_a_new_Github_repo.md)
