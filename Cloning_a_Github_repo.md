@@ -24,11 +24,13 @@
 
    <img src="img/github_repo_link.png" width="700px" hspace="50"/>
 
-5. In your git shell, clone the repo by typing the link. For example, if the link is `https://github.com/mgimond/repo1.git`, type 
+5. In your git shell, clone the repo by typing the link. For example, if the link is `https://github.com/mgimond/repo1.git`, type: 
 
    ```{r}
    git clone https://github.com/mgimond/repo1.git
    ```
+    If you are prompted for a username and password, enter your Github credentials (and not your college credentials).   
+    
    <img src="img/repo_clone_shell.PNG" width="400px" hspace="50"/>
 
   At this point, you have a clone (copy) of the repo content on your computer. You can now create/edit files in your project folder as needed. Be sure to save all project files in this folder.
