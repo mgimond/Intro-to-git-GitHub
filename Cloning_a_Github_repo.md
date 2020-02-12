@@ -1,6 +1,6 @@
 ## Copying (cloning) a Github Repo locally to your computer
 
-1. Bring up a git shell on your local computer. You can also bring up the *Terminal* window in RStudio (lower left-hand pane).
+1. Bring up a git shell on your local computer (**Git Bash** on Windows; **Terminal** on Macs). You can also bring up the *Terminal* window in RStudio (lower left-hand pane).
 2. Navigate to the folder where you will want to copy the new repo to. You can change directory using the `cd` command. For example, if you want to copy the repo to your `ES218` folder that resides under your home directory, type the following if you are working on a **Mac**:
 
    ```{r}
