@@ -6,7 +6,7 @@ For **Macs**, install Git from  http://git-scm.com/downloads. Go with the defaul
 
 ## Configuring git
 
-You only need to follow this step once on your machine. This step adds your contact information that will be used when uploading your R and Rmd scripts to Github.
+You only need to follow this step once on your machine. This step adds your contact information that will be used when uploading (**pushing**) your project folder to Github.
 
 Bring up the git shell (this may be listed as the **Git Bash** application on **Windows** and it may be accessed via your **Terminal** application on the **Mac**). You can also access the shell from inside **RStudio** by clicking on the **Terminal** tab in the lower left-hand pane.
 
