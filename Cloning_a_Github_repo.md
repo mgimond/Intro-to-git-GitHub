@@ -15,7 +15,7 @@
    The tilde, `~`, is interpreted as you home directory. Alternatively, you could have typed the full directory path to your folder. For example, on a Windows machine, you could have typed:
    
    ```{r}
-   cd /c/Users/mgimond/ES218
+   cd /c/Users/jdcolby/ES218
    ```  
 
 3. Navigate to the Github/repo page you want to clone.
