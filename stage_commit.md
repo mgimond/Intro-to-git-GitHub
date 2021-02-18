@@ -47,3 +47,7 @@ git commit -m "type your message here"
       ```
       
         <img src="img/git_commit.PNG" width=450 /> 
+        
+  6. You can once again run the `git status` command to check that any change in your local repo was properly staged and commited.
+
+      <img src="img/status_clean.png" width=450 /> 
