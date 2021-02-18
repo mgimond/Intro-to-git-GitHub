@@ -20,11 +20,11 @@
 
 3. Navigate to the Github/repo page you want to clone.
 
-4. Click on the *Clone or Download* button. This will reveal the full web path to your repo.
+4. Click on the *Code* button. This will reveal the full web path to your repo.
 
    <img src="img/github_repo_link.png" width="700px" hspace="50"/>
 
-5. In your git shell, clone the repo by typing the link. For example, if the link is `https://github.com/mgimond/repo1.git`, type: 
+5. In your git shell, clone the repo by typing the link from the Github page. Make sure that the full link is copied (the last element of the link should end with `*.git`). For example, if the link is `https://github.com/mgimond/repo1.git`, type: 
 
    ```{r}
    git clone https://github.com/mgimond/repo1.git
