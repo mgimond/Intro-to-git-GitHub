@@ -8,9 +8,9 @@ Proceed with the following steps when you are ready to push (upload) your local 
 
    If you are prompted for a username/password, this is refering to your Github account (and not your school account).  
      
-       <img src="img/git_push.PNG" width=450 /> 
+<img src="img/git_push.PNG" width=450 /> 
      
 3. Finally, check your Github repo for the updates. You should see the comment next to the updated or newly added files.  
   
-       <img src="img/check_github.PNG" width=600 /> 
+<img src="img/check_github.PNG" width=600 /> 
   
