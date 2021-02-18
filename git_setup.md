@@ -8,7 +8,7 @@ For **Macs**, install Git from  http://git-scm.com/downloads. Go with the defaul
 
 You only need to follow this step once on your machine. This step adds your contact information that will be used when uploading (**pushing**) your project folder to Github.
 
-Bring up the git shell (this may be listed as the **Git Bash** application on **Windows** and it may be accessed via your **Terminal** application on the **Mac**). You can also access the shell from inside **RStudio** by clicking on the **Terminal** tab in the lower left-hand pane. Replace `Jane Doe` with your name and `jdoes@colby.edu` with your email address.
+Bring up the git shell (this may be listed as the **Git Bash** application on **Windows** and it may be accessed via your **Terminal** application on the **Mac**). You can also access the shell from inside **RStudio** by clicking on the **Terminal** tab in the lower left-hand pane. Type the following while replacing `Jane Doe` with your name and `jdoe@colby.edu` with your email address.
 
 ```{r}
 git config --global user.name 'Jane Doe'
