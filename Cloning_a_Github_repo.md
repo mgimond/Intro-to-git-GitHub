@@ -24,10 +24,10 @@
 
    <img src="img/github_repo_link.png" width="700px" hspace="50"/>
 
-5. In your git shell, clone the repo by typing the link from the Github page. Make sure that the full link is copied (the last element of the link should end with `*.git`). For example, if the link is `https://github.com/mgimond/repo1.git`, type: 
+5. In your git shell, clone the repo by typing the link from the Github page. Make sure that the full link is copied (the last element of the link should end with `*.git`). For example, if the link is `https://github.com/jdcolby/repo1.git`, type: 
 
    ```{r}
-   git clone https://github.com/mgimond/repo1.git
+   git clone https://github.com/jdcolby/repo1.git
    ```
     If you are prompted for a username and password, enter your Github credentials (and not your college credentials).   
     
