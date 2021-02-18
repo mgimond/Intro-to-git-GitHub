@@ -9,8 +9,8 @@
 -   [Cloning a Github repo](Cloning_a_Github_repo.md)  
      Instructions on cloning/pulling a repo from Github.com to your local computer using `git`.
 
--   [Adding, committing and pushing a local repo to Github](add_commit.md)  
-     Instructions  on saving and committing changes made in your local repo project folder. Changes include files that were added/removed or modified.
+-   [Staging, committing and pushing a local repo to Github](add_commit.md)  
+     Instructions  on staging and committing changes made in your local repo project folder. Changes include files that were added/removed or modified.
 
 -   [Pushing a local repo to Github](push_repo_to_github.md)  
      Instructions  **pushing** these changes back to your Github.com account.
