@@ -3,10 +3,10 @@ Proceed with the following steps when you are ready to push (upload) your local 
 1. Make sure that you've saved any project R/Rmd script before pushing your project folder.  
 
 2. The final step is to **push** your local commited files/folders to your Github repo as follows:  
-     ```
-     git push -u origin master
-     ```
-     If you are prompted for a username/password, this is refering to your Github account (and not your school account).  
+
+  `git push -u origin master`
+
+   If you are prompted for a username/password, this is refering to your Github account (and not your school account).  
      
        <img src="img/git_push.PNG" width=450 /> 
      
