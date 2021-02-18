@@ -51,3 +51,6 @@ git commit -m "type your message here"
   6. You can once again run the `git status` command to check that any change in your local repo was properly staged and commited.
 
       <img src="img/status_clean.png" width=450 /> 
+      
+      The message may state that "your branch is ahead of 'origin/main'". This is just to remind you that the changes made locally to your repo have not been reflected on Github.com.
+      
