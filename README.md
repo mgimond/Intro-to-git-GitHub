@@ -6,10 +6,10 @@
 -   [Creating a new Github repo](Creating_a_new_Github_repo.md)  
      Instructions on creating a new repository on Github.com.
 
--   [Cloning a Github repo](Cloning_a_Github_repo.md)  
+-   [Cloning a Github repo to your computer](Cloning_a_Github_repo.md)  
      Instructions on cloning/pulling a repo from Github.com to your local computer using `git`.
 
--   [Staging, committing and pushing a local repo to Github](stage_commit.md)  
+-   [Staging and committing changes made to a local repo](stage_commit.md)  
      Instructions  on staging and committing changes made in your local repo project folder. Changes include files that were added/removed or modified.
 
 -   [Pushing a local repo to Github](push_repo_to_github.md)  
