@@ -6,7 +6,7 @@ Proceed with the following steps when you are ready to push (upload) your local 
 
   `git push -u origin master`
 
-   If you are prompted for a username/password, this is refering to your Github account (and not your school account).  
+   If you are prompted for a username/password, recall that the password is the Token you created up on GitHub.  
      
 <img src="img/git_push.PNG" width=450 /> 
      
