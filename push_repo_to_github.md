@@ -6,7 +6,7 @@ Proceed with the following steps when you are ready to push (upload) your local 
 
   `git push -u origin master`
 
-   If you are prompted for a username/password, recall that the password is the Token you created up on GitHub.  
+   If you are prompted for a username/password, recall that the password is the [Personal Access Token you created up on GitHub](authenticating_with_github.md). But note that if the token is saved in your local user profile, you will not be prompted for a password.
      
 <img src="img/git_push.PNG" width=450 /> 
      
