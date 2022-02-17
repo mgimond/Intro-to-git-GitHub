@@ -29,7 +29,7 @@
    ```{r}
    git clone https://github.com/jdcolby/repo1.git
    ```
-    If you are prompted for a username and password, enter your Github credentials. Note that as of August 2021, you cannot use your GitHub password, instead, you must authenticate using either a Token or a SSH authentication. 
+    If you are prompted for a username and password, enter your Github credentials. Note that as of August 2021, you cannot use your GitHub password, instead, you must authenticate using either a Personal Access Token or an SSH authentication. 
     
    <img src="img/repo_clone_shell.PNG" width="400px" hspace="50"/>
 
