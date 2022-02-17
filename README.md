@@ -3,6 +3,9 @@
 -   [Setting up git](git_setup.md)  
      Instructions on setting up your `git` global settings. You will only need to do this once. These settings will apply to any repo you pull under your current user account.
 
+-   [Setting up an authentication protocol](authenticating_with_github.md)  
+    Instructions on setting up an authentication protocol that allows you to connect your dektop copy of a GitHub repo with Github. This tutorial shows you how to setup a  **Personal Access Token** (PAT)--the simplest authentication method. For an SSH based authentication protocol, see [this link](https://mgimond.github.io/Colby-summer-git-workshop-2021/authenticating-with-github.html).
+
 -   [Creating a new Github repo](Creating_a_new_Github_repo.md)  
      Instructions on creating a new repository on Github.com.
 
