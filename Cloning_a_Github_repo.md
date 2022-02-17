@@ -33,6 +33,37 @@
     
    <img src="img/repo_clone_shell.PNG" width="400px" hspace="50"/>
 
-  At this point, you have a clone (copy) of the repo content on your computer. You can now create/edit files in your project folder as needed. Be sure to save all project files in this folder.
+  At this point, you have a clone (copy) of the repo content on your computer. 
 
    <img src="img/local_repo_folder.PNG" width="400px" hspace="50"/>
+   
+   To see the contents of the `repo1/` folder from the terminal, `cd` into that folder as follows:
+   
+   ```
+   cd repo1
+   ```
+   
+   then list the folder's contents:
+   
+   ```
+   ls
+   ```
+   
+   You should see the README.md file created up on GitHub in that folder.
+   
+   Note that the `repo1` folder also contains a hidden folder called `.git`. To see it, add the `-a` option as follows:
+   
+   ```
+   ls -a
+   ```
+   
+   Your terminal window should now display:
+   
+   ```
+   .  ..  .git  README.md
+   ```
+   
+   It's important that you do not delete the `.git` folder.
+      
+   You can now create/edit files in your project folder as needed. Be sure to save all project files in the cloned repo folder. 
+   
