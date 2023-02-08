@@ -32,14 +32,14 @@ First, you need to follow these steps on GitHub:
 
 7. From the **scopes** menu, select *repo*. This will allow you to read/write to your repo.
 
-<img src="img_auth/image-20210607100556823.png" alt="image-20210607100556823" style="zoom:50%;" width="461" height="313" />
+<img src="img_auth/image-20210607100556823.png" alt="image-20210607100556823" style="zoom:70%;" width="461" height="313" />
 
 
 7. Click **Generate token** at the bottom of the page.
 
 8. **Copy** and **temporarily save** the token before closing the window. 
 
-<img src="img_auth/image-20210607100655111.png" alt="image-20210607100655111" style="zoom:50%;" width="580" height="205" />
+<img src="img_auth/image-20210607100655111.png" alt="image-20210607100655111" style="zoom:70%;" width="580" height="205" />
    
 When copying the token id, be careful not to add any empty spaces to the beginning or end of the token. It might be a good idea to temporarily paste the token into a plain text editor.
 
