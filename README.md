@@ -1,4 +1,4 @@
- ## Git/Github instructions
+## Git/Github instructions
  
 -   [Setting up git](git_setup.md)  
      Instructions on setting up your `git` global settings. You will only need to do this once. These settings will apply to any repo you pull under your current user account.
