@@ -14,3 +14,11 @@ In this example, you will create a new repo called `repo1`.
     <img src="img/create_new_repo.PNG" width="500px" hspace="50"/>
 
 
+-----
+
+[Back to the home page](index.html)
+
+<div class="footer">
+<hr/>
+<a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a>  Manny Gimond (2022)
+</br>
