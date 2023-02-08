@@ -32,14 +32,14 @@ First, you need to follow these steps on GitHub:
 
 7. From the **scopes** menu, select *repo*. This will allow you to read/write to your repo.
 
-<img src="img_auth/image-20210607100556823.png" alt="image-20210607100556823" style="zoom:70%;" width="461" height="313" />
+<img src="img_auth/image-20210607100556823.png" alt="image-20210607100556823" style="zoom:80%;" width="461" height="313" />
 
 
 7. Click **Generate token** at the bottom of the page.
 
 8. **Copy** and **temporarily save** the token before closing the window. 
 
-<img src="img_auth/image-20210607100655111.png" alt="image-20210607100655111" style="zoom:70%;" width="580" height="205" />
+<img src="img_auth/image-20210607100655111.png" alt="image-20210607100655111" style="zoom:80%;" width="580" height="205" />
    
 When copying the token id, be careful not to add any empty spaces to the beginning or end of the token. It might be a good idea to temporarily paste the token into a plain text editor.
 
@@ -61,7 +61,7 @@ Pasting your token each time you push or pull from your repo may prove cumbersom
 
 If you are using a Windows based Git application, you might see the following window pop-up when you are first asked to enter your token.
 
-<img src="img_auth/image-20210607102050270.png" alt="image-20210607102050270" style="zoom:43%;" width="307" height="271" />
+<img src="img_auth/image-20210607102050270.png" alt="image-20210607102050270" style="zoom:80%;" width="307" height="271" />
 
 If so, you can paste the token into the *Personal Access Token* field.
 
@@ -75,7 +75,7 @@ git config --global credential.helper wincred
 
 The credentials get stored in Windows' **Credential Manager**. You can delete this stored credential by accessing the Credential Manager via **Control Panel >> All Control Panel Items >> Credential Manager**  or by simply typing *Credential Manager* in the Windows' task bar.
 
-<img src="img_auth/image-20210607102911042.png" alt="image-20210607102911042" style="zoom:50%;" width="453" height="296" />
+<img src="img_auth/image-20210607102911042.png" alt="image-20210607102911042" style="zoom:80%;" width="453" height="296" />
 
 
 
