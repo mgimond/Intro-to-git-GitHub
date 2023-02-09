@@ -2,7 +2,7 @@
 
 1. Bring up a git shell on your local computer (**Git Bash** on Windows; **Terminal** on Macs). On windows, it's probably easiest for you to **write-click** in the folder where you will download/clone the project folder into, and then select **Git Bash Here**.
 
-  <img src="img/bash_in_folder.png" width="700px" hspace="50"/>
+  <img src="img/bash_in_folder.png" width="300px" hspace="50"/>
 
 Note that you can also bring up the *Terminal* window in RStudio (lower left-hand pane).
 
