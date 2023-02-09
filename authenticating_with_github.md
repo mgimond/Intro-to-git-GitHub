@@ -45,7 +45,7 @@ When copying the token id, be careful not to add any empty spaces to the beginni
 
    > Note that you will not be able to access the token string once you exit the window! You might want to keep this window open until you've completed the steps outlined next.
 
-Once you've created your token on GitHub, you simply substitute your GitHub password with your access token. For example, if you are cloning a private repo that your account has access to, you would enter the above token instead of your GitHub password.
+Once you've created your token on GitHub, you simply substitute your GitHub password with your access token whenever you clone a repo from GitHub. For example, if you are cloning a private repo that your account has access to, you would enter the above token instead of your GitHub password.
 
 ```
 $ git clone https://github.com/jdcolby/repo.git
