@@ -24,7 +24,7 @@ First, you need to follow these steps on GitHub:
 
 3. In the left sidebar, click **Personal access tokens**. If you are provided with an option, select **Tokens (classic)**.
 
-4. Click **Generate new token** (button near the upper left-hand side). If you are provided with an option, select **... (classic)**.
+4. Click **Generate new token** (button near the upper right-hand side). If you are provided with an option, select **... (classic)**.
    
 5. In the *Note* field, assign a name to this token such as the local computer you are creating this token for.
 
