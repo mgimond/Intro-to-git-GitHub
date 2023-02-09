@@ -6,7 +6,7 @@
 
 Note that you can also bring up the *Terminal* window in RStudio (lower left-hand pane).
 
-2. Navigate to the folder where you will want to copy the new repo to. You can change directory using the `cd` command. For example, if you want to copy the repo to your `ES218` folder that resides under your home directory, type the following if you are working on a **Mac**:
+2. If your Git shell is in a folder other than where you plan to clone the project folder into, navigate to the folder where you will want to copy the new repo to. You can change directory using the `cd` command. For example, if you want to copy the repo to your `ES218` folder that resides under your home directory, type the following if you are working on a **Mac**:
 
    ```{r}
    cd ~/ES218
@@ -23,7 +23,7 @@ Note that you can also bring up the *Terminal* window in RStudio (lower left-han
    cd /c/Users/jdcolby/ES218
    ```  
 
-3. Navigate to the Github/repo page you want to clone.
+3. In your web browser, navigate to the Github/repo page you want to clone. (Note that if you are given a link to a **GitHub Classroom** assignment, you will use that link instead and this as well as the next two steps).
 
 4. Click on the *Code* button. This will reveal the full web path to your repo.
 
@@ -35,7 +35,7 @@ Note that you can also bring up the *Terminal* window in RStudio (lower left-han
    git clone https://github.com/jdcolby/repo1.git
    ```
 
-If this is the first time you download a repo from GitHub on your current computer, you may be presented with a **GitHub Sign in** window. If so, select the **Token** option.
+6. If this is the first time you download a repo from GitHub on the computer you are working on, you may be presented with a **GitHub Sign in** window. If so, select the **Token** option.
 
    <img src="img/sign_in_token.png" width="359px" hspace="50"/>
 
