@@ -36,12 +36,6 @@ If this is the first time you download a repo from GitHub on your current comput
 
 In the Token field, paste the PAT token you created for the machine you are working on (following steps outlined in a [separate tutorial](https://mgimond.github.io/intro_to_git/authenticating_with_github.html)).
 
-
-
-If you are prompted for a username and password, enter your Github credentials. Note that as of August 2021, you cannot use your GitHub password, instead, you must authenticate using either a Personal Access Token or an SSH authentication. 
-    
-   <img src="img/repo_clone_shell.PNG" width="400px" hspace="50"/>
-
   At this point, you have a clone (copy) of the repo content on your computer. 
 
    <img src="img/local_repo_folder.PNG" width="400px" hspace="50"/>
