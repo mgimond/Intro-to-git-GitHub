@@ -42,7 +42,7 @@ When copying the token id, be careful not to add any empty spaces to the beginni
 
 The easiest way to add the toekn to your device is by clone a repo. When you first clone (or push) a repo from/to GitHub on your device, you will be presented with a GitHub sign in screen.
 
-<img src="img/sign_in_token.png" alt="" style="zoom:80%;" width="580" height="205" />
+<img src="img/sign_in_token.png" alt="" style="zoom:80%;" />
 
 Select the token option, then type or paste the token string and click sign in.
 
