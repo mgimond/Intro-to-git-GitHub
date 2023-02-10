@@ -2,19 +2,12 @@
 
 ------
 
-Prior to August 13, 2021, you were allowed to authenticate by typing a username and password every time you *pushed* or *pulled* from GitHub. For example, when pushing changes made in a local repo to GitHub, the session would look something like this:
-
-```shell
-$ git push
-> Username for 'https://github.com': jdcolby
-> Password for 'https://jdcolby@github.com': ******
-```
-
-When pushing and pulling repositories from GitHub, you might be prompted for your GitHub username and password. However, you cannot use the password used to access your GitHub web pages. Instead, you need to adopt one of several authentication options. The simplest (and the one used in this course) is the  **Personal Access Token** (**PAT**).  Another option not covered here but one that may be more robust in a professional setting is **SSH-based** authentication. If you want to learn more about SSH authentication, see [here](https://mgimond.github.io/Colby-summer-git-workshop-2021/authenticating-with-github.html). Note that if you are using a Linux OS, the SSH based authentication is a better solution.
+Prior to August 13, 2021, you were allowed to authenticate by typing a username and password every time you *pushed* or *pulled* from GitHub. This is no longer the case. You now need to create a  **Personal Access Token** (**PAT**).  Another option not covered here but one that may be more robust in a professional setting is **SSH-based** authentication. If you want to learn more about SSH authentication, see [here](https://mgimond.github.io/Colby-summer-git-workshop-2021/authenticating-with-github.html). Note that if you are using a Linux OS, the SSH based authentication is a better solution.
 
 
-A *Personal Access Token* (**PAT**) is unique to each computer you work off of. You would therefore need to repeat the following steps for each computer you are working off of.
+A *Personal Access Token* (**PAT**) is unique to each computer you work off of. You will therefore need to repeat the following steps for each computer you are working off of.
 
+### Creating the token on GitHub
 
 First, you need to follow these steps on GitHub:
 
@@ -32,52 +25,32 @@ First, you need to follow these steps on GitHub:
 
 7. From the **scopes** menu, select *repo*. This will allow you to read/write to your repo.
 
-<img src="img_auth/image-20210607100556823.png" alt="image-20210607100556823" style="zoom:80%;" width="461" height="313" />
+<img src="img_auth/image-20210607100556823.png" alt="" style="zoom:80%;" width="461" height="313" />
 
 
 7. Click **Generate token** at the bottom of the page.
 
 8. **Copy** and **temporarily save** the token before closing the window. 
 
-<img src="img_auth/image-20210607100655111.png" alt="image-20210607100655111" style="zoom:80%;" width="580" height="205" />
+<img src="img_auth/image-20210607100655111.png" alt="" style="zoom:80%;" width="580" height="205" />
    
 When copying the token id, be careful not to add any empty spaces to the beginning or end of the token. It might be a good idea to temporarily paste the token into a plain text editor.
 
    > Note that you will not be able to access the token string once you exit the window! You might want to keep this window open until you've completed the steps outlined next.
 
-Once you've created your token on GitHub, you simply substitute your GitHub password with your access token whenever you clone a repo from GitHub. For example, if you are cloning a private repo that your account has access to, you would enter the above token instead of your GitHub password.
+### Adding the token to your device
 
-```
-$ git clone https://github.com/jdcolby/repo.git
-Username: jdcolby
-Password: <your token>
-```
+The easiest way to add the toekn to your device is by clone a repo. When you first clone (or push) a repo from/to GitHub on your device, you will be presented with a GitHub sign in screen.
 
-When you paste your token, you will not see it displayed on the command line. This might lead you to believe that it did not paste. Do not attempt a re-paste since this will only add the token to the end of the already pasted token.
+<img src="img/sign_in_token.png" alt="" style="zoom:80%;" width="580" height="205" />
 
-Pasting your token each time you push or pull from your repo may prove cumbersome after a while. It might therefore be best to cache your token. This step is OS specific and is highlighted in the next subsections.
+Select the token option, then type or paste the token string and click sign in.
 
-### Saving tokens in Windows
-
-If you are using a Windows based Git application, you might see the following window pop-up when you are first asked to enter your token.
-
-<img src="img_auth/image-20210607102050270.png" alt="image-20210607102050270" style="zoom:80%;" width="307" height="271" />
-
-If so, you can paste the token into the *Personal Access Token* field.
-
-Alternatively, you can add a git setting via the Windows Bash environment as follows:
-
-```shell
-git config --global credential.helper wincred
-```
-
->  Note that this `config` option only works in the **Git for Windows Bash** shell.  This option will *not* work in a Windows WSL Ubuntu environment. If you are using WSL Ubuntu, you need to follow the Linux instructions listed below.
-
-The credentials get stored in Windows' **Credential Manager**. You can delete this stored credential by accessing the Credential Manager via **Control Panel >> All Control Panel Items >> Credential Manager**  or by simply typing *Credential Manager* in the Windows' task bar.
+This should be a one time operation on the device you are working on. The credentials get stored in Windows' **Credential Manager**. 
 
 <img src="img_auth/image-20210607102911042.png" alt="image-20210607102911042" style="zoom:80%;" width="453" height="296" />
 
-
+You can delete this stored credential by accessing the Credential Manager via **Control Panel >> All Control Panel Items >> Credential Manager**  or by simply typing *Credential Manager* in the Windows' task bar. But only do so when you no longer need to clone/push/pull from GitHub.
 
 ### Saving tokens on a Mac
 
