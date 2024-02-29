@@ -15,10 +15,10 @@
 -   [Staging/committing and pushing a local repo](stage_and_push.md) 
     Instructions on staging, committing and pushing
 
--   [Staging and committing--detailed](stage_commit.md)  
+      -   [Staging and committing--detailed](stage_commit.md)  
      Instructions  on staging and committing changes made in your local repo project folder. Changes include files that were added/removed or modified.
 
--   [Pushing a local repo to Github--detailed ](push_repo_to_github.md)  
+      -   [Pushing a local repo to Github--detailed ](push_repo_to_github.md)  
      Instructions  **pushing** these changes back to your Github.com account.
 
 -   [Updating a local repo](Update_local_repo.md)
