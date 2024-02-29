@@ -12,10 +12,13 @@
 -   [Cloning a Github repo to your computer](Cloning_a_Github_repo.md)  
      Instructions on cloning/pulling a repo from Github.com to your local computer using `git`. Make sure that you have a PAT token created for the machine you will work on.
 
--   [Staging and committing changes made to a local repo](stage_commit.md)  
+-   [Staging/committing and pushing a local repo](stage_and_push.md) 
+    Instructions on staging, committing and pushing
+
+-   [Staging and committing--detailed](stage_commit.md)  
      Instructions  on staging and committing changes made in your local repo project folder. Changes include files that were added/removed or modified.
 
--   [Pushing a local repo to Github](push_repo_to_github.md)  
+-   [Pushing a local repo to Github--detailed ](push_repo_to_github.md)  
      Instructions  **pushing** these changes back to your Github.com account.
 
 -   [Updating a local repo](Update_local_repo.md)
