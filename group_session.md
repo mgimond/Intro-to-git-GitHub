@@ -9,7 +9,7 @@ The instructor will provide you with the link to this week's group repository te
 
 You will be asked to create a team name. 
 
-![](img/team_1.png)
+![](img/team_1.png){ width: 300px; }
 
 If you are team `1` and it's `week 02`, you will type `week02 team01` in the empty field then click on `Create team`.
   
