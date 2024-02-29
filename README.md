@@ -20,7 +20,7 @@
 
 -   [Updating a local repo](Update_local_repo.md)
     Instructions on **pulling** changes that were made on your Github.com repo that are not yet reflected on your local computer's repo folder.
-    
- ## Group sessions
+
+## Group sessions
  
  Follow [these instructions](group_session.md) when working on Friday's group sessions
