@@ -1,3 +1,5 @@
+## Staging/committing and pushing to GitHub
+
 Proceed with the following steps when you are ready to stage, commit, then push (upload) your local project folder back to your github account. Note that you do not need to wait until you feel as though you have a final version of your assignment or project before pushing it to your github account. You can push many different versions of you project folder as needed.
 
 1. Make sure that you've saved all R/Rmd scripts before proceeding.  
