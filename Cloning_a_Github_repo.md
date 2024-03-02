@@ -1,12 +1,30 @@
+## Creating your GitHub repo from the course template
+
+You will be provided with a link to create your GitHub repo for your assignment. Clicking on the link will bring up an "Accept the assignment" page (you might be asked to log in with your GitHub account).
+
+ <img src="img/class_link_1.png" width="300px" hspace="50"/>
+
+ In this example, the assignmnent name is `Sample`. Each assignment will have a unique name.
+ 
+ Click `Accept this assignment`. This will bring up the following page:
+
+ <img src="img/class_link_2.png" width="300px" hspace="50"/>
+
+The page indicates that your assignment repository ("repo" for short) is being configured. You may need to **refresh** the page to see the link to your personal repo.
+
+<img src="img/class_link_3.png" width="300px" hspace="50"/>
+
+Clicking on the link in the blue box will bring you to your repo page.
+
+<img src="img/class_link_4.png" width="300px" hspace="50"/>
+
+The repo page will normally have a README file with instructions on how to tackle the assignment. But note that you will not create/modify the R scripts on GitHub. Instead, you will clone the repo onto your personal computer (in regular parlance, you will be creating an assignment folder on your PC from the GitHub repo). This is where your local installation of `git` comes into play.
+
 ## Copying (cloning) a Github Repo locally to your computer
 
-1. Bring up a git shell on your local computer (**Git Bash** on Windows; **Terminal** on Macs). On windows, it's probably easiest for you to **write-click** in the folder where you will download/clone the project folder into, and then select **Git Bash Here**.
+1. Bring up a git shell on your local computer. On a **Mac**, you will open a **Terminal**.  On **Windows**, you will bring up a **Git shell**.
 
-  <img src="img/bash_in_folder.png" width="300px" hspace="50"/>
-
-Note that you can also bring up the *Terminal* window in RStudio (lower left-hand pane).
-
-2. If your Git shell is in a folder other than where you plan to clone the project folder into, navigate to the folder where you will want to copy the new repo to. You can change directory using the `cd` command. For example, if you want to copy the repo to your `ES218` folder that resides under your home directory, type the following if you are working on a **Mac**:
+2. If your Git shell is in a folder other than where you plan to clone the project folder into, navigate to the folder where you will want to copy the new repo to. You can change directory using the `cd` command. For example, if you want to create the repo to your `ES218` folder that resides under your home directory, type the following if you are working on a **Mac**:
 
    ```{r}
    cd ~/ES218
