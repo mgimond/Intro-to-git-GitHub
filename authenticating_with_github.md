@@ -40,19 +40,7 @@ When copying the token id, be careful not to add any empty spaces to the beginni
 
 ### Adding the token to your device
 
-The easiest way to add the toekn to your device is by clone a repo. When you first clone (or push) a repo from/to GitHub on your device, you will be presented with a GitHub sign in screen.
-
-<img src="img/sign_in_token.png" alt="" style="zoom:60%;" />
-
-Select the token option, then type or paste the token string and click sign in.
-
-This should be a one time operation on the device you are working on. The credentials get stored in Windows' **Credential Manager**. 
-
-<img src="img_auth/image-20210607102911042.png" alt="image-20210607102911042" style="zoom:80%;" width="453" height="296" />
-
-You can delete this stored credential by accessing the Credential Manager via **Control Panel >> All Control Panel Items >> Credential Manager**  or by simply typing *Credential Manager* in the Windows' task bar. But only do so when you no longer need to clone/push/pull from GitHub.
-
-### Saving tokens on a Mac
+#### Saving tokens on a Mac
 
 You'll need the **OSX keychain credential helper**.  If you installed Git using Homebrew or via the *Xcode* command line, then *osxkeychain* helper should be part of the installation.
 
@@ -71,6 +59,16 @@ $ git config --global credential.helper osxkeychain
 The next time you are prompted for a user name and password, simply type your GitHub account name, then your personal access token. This will be a one time operation after which the token will be permanently stored. 
 
 Click [here](https://docs.github.com/en/github/getting-started-with-github/getting-started-with-git/updating-credentials-from-the-macos-keychain) to for more information on using *Keychain* with Git.
+
+> NOTE: If you were redirected here from [Cloning a homework assignment](Cloning_a_Github_repo.md) page, you will now want to go back to that page to continue with the cloning process.
+
+Note that the credentials get stored in Windows' **Credential Manager**. 
+
+<img src="img_auth/image-20210607102911042.png" alt="image-20210607102911042" style="zoom:80%;" width="340"  />
+
+You can delete this stored credential by accessing the Credential Manager via **Control Panel >> All Control Panel Items >> Credential Manager**  or by simply typing *Credential Manager* in the Windows' task bar. But only do so when you no longer need to clone/push/pull from GitHub.
+
+
 
 
 -----
