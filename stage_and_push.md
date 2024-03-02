@@ -4,7 +4,7 @@ Proceed with the following steps when you are ready to stage, commit, then push 
 
 1. Make sure that you've saved all R/Rmd scripts before proceeding.  
 
-2. In a terminal, place yourself in the project folder (aka repo folder) using the `cd` command (see [here](Cloning_a_Github_repo) for a refresher on navigating directories in a terminal). To check that you are indeed in the project folder, type `pwd`
+2. In a terminal, place yourself in the project folder (aka repo folder) using the `cd` command (see [here](Cloning_a_Github_repo#copying-cloning-a-github-repo-locally-to-your-computer) for a refresher on navigating directories in a terminal using the `cd` command). To check that you are indeed in the project folder, type `pwd`.
 
 3. Stage, then commit the changes made to your project folder. These **commits** act as "bookmarks"" in the evolution of your project folder.  Type the following:
 
